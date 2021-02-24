@@ -1,0 +1,178 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+.ui.segment.topbar {
+  background-color: red;
+  height: 40px;
+}
+
+.ui.center.aligned.header.topbartext {
+  color: white;
+  font-size: 15px;
+}
+
+.ui.container.topbar {
+  width: 1400px !important;
+}
+
+.ui.container.topmenu {
+  width: 1400px !important;
+}
+
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  padding-top: 10px;
+}
+
+#topmenuleft {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.visit.item {
+  width: 70px;
+  border: 1px solid red;
+}
+
+#bigjazzletter {
+  font-weight: bolder;
+  color: black;
+  font-size: 80px;
+  font-stretch: ultra-condensed;
+  line-height: 80px;
+}
+
+#segment1, #segment2 {
+  box-shadow: none;
+  border: none;
+}
+
+#segment2 {
+  margin-top: 100px;
+}
+
+.visitus.item {
+  background-color: red;
+  color: white;
+  width: 100px;
+  margin-left: 10px;
+  border: 15px solid red;
+}
+
+#painting{
+  width: 1610px;
+  margin-top: 100px;
+}
+.ui.two.column.centered.grid.middlewithman{
+  margin-top: 100px;
+}
+#ourmission {
+  font-weight: bold;
+  font-size: 40px;
+  margin: 120px 0 30px 100px;
+}
+
+#subOurMission, #subOurMission2 {
+  line-height: 30px;
+  font-size: 17px;
+  font-weight: lighter;
+  margin: 10px 0 30px 100px;
+}
+.underline.learnmore{
+  margin: 10px 0 30px 100px;
+  font-weight: bold;
+  text-decoration: underline coral;
+}
+#firstsubfooter{
+  margin: 20px 0 10px 0;
+  font-weight: 700;
+  font-size: 22px;
+}
+#firstsubfooter2{
+  font-weight: 300;
+  margin: 20px 0 10px 0;
+ }
+.follow.item {
+  background-color: red;
+  color: white;
+  width: 100px;
+  border: 15px solid red;
+  margin-top: 20px;
+}
+#secondsubfooter{
+  margin: 20px 0 10px 0;
+  font-weight: 700;
+  font-size: 22px;
+}
+#secondsubfooter2{
+  font-weight: 300;
+  margin: 20px 0 10px 0;
+}
+.signup.item {
+  background-color: red;
+  color: white;
+  width: 100px;
+  border: 15px solid red;
+  margin-top: 20px;
+}
+
+#thirdsubfooter{
+  margin: 20px 0 10px 0;
+  font-weight: 700;
+  font-size: 22px;
+}
+#thirdsubfooter2{
+  font-weight: 300;
+  margin: 20px 0 10px 0;
+}
+.donate.item {
+  background-color: red;
+  color: white;
+  width: 100px;
+  border: 15px solid red;
+  margin-top: 20px;
+}
+.ui.equal.width.grid.secondone{
+  background-color: black;
+  color: white;
+}
+.grid.sizing{
+  margin-top: 80px;
+  margin-left: 30px;
+}
+.ICON.item{
+  color: white;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.ui.copyright.outline.icon{
+  color: white;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.item.footerone{
+  margin-right: 10px;
+  color: white;
+}
+
+.item.addressfooter{
+  color: dimgray;
+  margin: 30px 0 30px 0;
+}
+.item.phonefooter{
+  text-decoration: underline white;
+  margin-bottom: 100px;
+}
+.item.subfooterone{
+  color: white;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.blank.item{
+  background-color: white;
+  color: white;
+  width: 100px;
+  border: 20px solid white;
+}
